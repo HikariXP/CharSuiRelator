@@ -1,0 +1,16 @@
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\bin\Debug\net6.0\CharSuiRelator.exe
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\bin\Debug\net6.0\CharSuiRelator.deps.json
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\bin\Debug\net6.0\CharSuiRelator.runtimeconfig.json
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\bin\Debug\net6.0\CharSuiRelator.dll
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\bin\Debug\net6.0\CharSuiRelator.pdb
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.csproj.AssemblyReference.cache
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.AssemblyInfoInputs.cache
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.AssemblyInfo.cs
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.csproj.CoreCompileInputs.cache
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.dll
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\refint\CharSuiRelator.dll
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.pdb
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\CharSuiRelator.genruntimeconfig.cache
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\obj\Debug\net6.0\ref\CharSuiRelator.dll
+C:\Users\peropero\Documents\GitClone\CharSuiRelator\CharSuiRelator\CharSuiRelator\bin\Debug\net6.0\Tool\ffmpeg.exe
